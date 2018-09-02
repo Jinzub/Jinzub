@@ -1,2 +1,3 @@
 :wq
+sang jin sin
 
